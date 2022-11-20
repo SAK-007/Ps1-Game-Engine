@@ -1,12 +1,3 @@
-# Ps1-Game-Engine
-A game engine designed for PlayStation 1
-
-Thanks to Orion,LameGuy64,Wituz for making this possible
-
-Use this with PSY-Q SDK
-
-Documentation Soon !!
-
 CHANGELOGS:
 
 Emgine.zip
@@ -21,3 +12,13 @@ Enginev2.zip
 -renamed update_pad to padUpdate()
 -replaced engine.h to ALL.H include all files
 -new function setScreenColor(R,G,B)
+
+Enginev3.zip
+############
+-fixed sprite bug
+-currently support sprite and image
+-improved performance
+-renamed IMAGE.H to SPRITE.H
+-fixed GsBuffer Bug
+-added drawSprite
+-fixed framebuffer bug
