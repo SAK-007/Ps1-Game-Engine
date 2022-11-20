@@ -30,3 +30,5 @@ Enginev3.zip
 -fixed GsBuffer Bug
 -added drawSprite
 -fixed framebuffer bug
+-removed unneccesary file RENDERWARE.H
+-some code optimizations
