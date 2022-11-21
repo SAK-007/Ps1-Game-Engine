@@ -32,3 +32,27 @@ Enginev3.zip
 -fixed framebuffer bug
 -removed unneccesary file RENDERWARE.H
 -some code optimizations
+
+
+
+Enginev4.zip
+#############
+-added COLLISION.H (Beta) only CheckBoxCollisionFunction()
+-added setDisplayBackgroundColor(R,G,B)
+-some minor code optimizations
+-fixed read_file_from_cd()
+-now you can use setScreenMode(NTSC) || setScreenMode(PAL)
+-new data type Vector2,Vector3,Vector4
+-old versions have vectors but they are bad this version is good
+-added new file MACRO.H this include all defines
+-renamed GRAPHICS.H to SPRITES.H because it works as sprite
+-fixed sometimes screen flickering while drawing sprite
+-fixed all compiler warnings without the audioInit because i dont understand it if you know commit me :)
+-fast code compilation
+-some codes now commented and documented
+*On Engine v10 you will get a complete psyq Playstation 1 Game Development Engine so Support me*
+
+
+
+
+
