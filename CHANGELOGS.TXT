@@ -55,4 +55,26 @@ Enginev4.zip
 
 
 
+Enginev5.zip
+#############
+-first major virsion
+-minor documentation
+-added tool Timtool and Vagedit
+-added Run time library docs
+-added CheckSpriteCollision()
+-fully completed CheckBoxCollision()
+-faster cd loading
+-fixed sometime audio zzzzz sound
+-faster game looping speed
+-this version is better than old version
+-renamed graphics.h from sprites.h
+-faster Pad response
+-added audio example code
+-added Hello World example code
+-added Pad example code
+-added Sprite example code
+-added how to setup PSYQ SDK
+-added Polygons example code
+-next version will support debugging
+
 
