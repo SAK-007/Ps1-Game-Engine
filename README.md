@@ -1,5 +1,5 @@
-# Ps1-Game-Engine
-A game engine designed for PlayStation 1
+# SFPL
+Simple and Fast Playstation Library
 
 Thanks to Orion,LameGuy64,Wituz for making this possible
 
