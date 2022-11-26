@@ -35,6 +35,7 @@ Enginev3.zip
 
 
 
+
 Enginev4.zip
 #############
 -added COLLISION.H (Beta) only CheckBoxCollisionFunction()
@@ -78,3 +79,14 @@ Enginev5.zip
 -next version will support debugging
 
 
+
+
+
+Enginev6.zip
+#############
+-added docs essential for game development like collission,linear algebra etc
+-added VIDEO.H a video(.str) player library from Lameguy64
+-older versions only use 1mb of playstation ram this version uses full ram of playstation
+-very very very fast performance like double because it utilizes more memory
+-faster CD loading
+-fixed critical memory bug that caused low performance
