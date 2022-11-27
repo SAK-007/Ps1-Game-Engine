@@ -90,3 +90,11 @@ Enginev6.zip
 -very very very fast performance like double because it utilizes more memory
 -faster CD loading
 -fixed critical memory bug that caused low performance
+
+
+
+
+Enginev7.zip
+#############
+-MOST BIGGEST UPDATE
+-now fullt support TIM files !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
