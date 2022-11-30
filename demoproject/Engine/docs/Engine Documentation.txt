@@ -1,0 +1,130 @@
+Ps1 Game Engine Documentation
+##############################
+
+By reading this you will know how to use this game engine properly.
+
+Topics:
+
+1.Setup Psyq SDK for playstation 1 programming
+
+2.How to include our engine
+
+3.All functions on our game engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Setup Psyq SDK for Ps1 Programming
+#####################################################################################
+This is sony's playstation 1 development kit.
+
+if you have 32bit machine :
+
+Steps:
+
+1.Download PSY_Q.zip and extract it
+
+2.Copy psyq folder on C:/
+
+3.Run PSPATHS.BAT inside C:/psyq/
+
+4.Retstart your pc
+
+5.If you dont understand watch this -> 
+
+
+
+if you have 64bit machine :
+
+Watch this tutorial -> https://www.youtube.com/watch?v=wv_FKzK9qSQ&t=0s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                How to include our Engine
+###########################################################################################
+I am sure that you followed wituz's ps1 tutorial.
+
+
+Steps:
+
+1.Download Engine.zip any versions and extract files. Download link -> github.com/SAK-007/ps1-game-engine
+
+2.Copy Engine folder to your project directory
+
+3.Add this code to your MAIN.C #include "Engine/include/ALL.H"
+
+4.If doesnt compile goto C:/psyq/bin/psyq.ini add line to stdlib = libds.lib
+
+5.Copy code examples from examples folder
+
+6.Now compile like wituzs tutorial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						All functions on our game engine
+###############################################################################################
+
+
+initalizeScreen();         //Initializes the screen
+initalizeDisplay();        //Initializes the display initialize Display and Screen are same
+setBackgroundColor(R,G,B); //Example setBackgroundColor(0,255,0) (Green Color)
+setDisplayColor(R,G,B);    //Example setBackgroundColor(0,255,0) (Green Color)
+initializePad();           //Initializes controller
+initializeMemory();        //Initializes memory heap for program . Must use this when you use any cd functions
+
+
+
+
+
+
+
+
