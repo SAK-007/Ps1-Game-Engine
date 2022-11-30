@@ -98,3 +98,21 @@ Enginev7.zip
 #############
 -MOST BIGGEST UPDATE
 -now fullt support TIM files !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+
+
+
+Enginev8.zip
+#############
+-the fun now begins
+-NOW FULLY SUPPORT TMD (Textured Model Files)
+-NOW FULLY SUPPORT 3D
+-BIG THANKS TO RUBIXCUBE6
+-Visit demoproject for a 3d demo
+-A thanks to the man who starred this repository
+-Watch RUBIXCUBE6 3D on ps1 video and download the file from his description and setup blender as well
+-Now you can use 3d :)
