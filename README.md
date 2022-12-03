@@ -1,5 +1,5 @@
 # Ps1-Game-Engine
-# Simple and Fast Playstation Library
+# Open source game engine designed for original playstation
 
 Note :This is not a game engine this is a playstation game development library and its name is Engine
 
