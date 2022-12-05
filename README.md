@@ -29,4 +29,9 @@ CREDITS
 -3D Graphics credit goes to RUBIXCUBE6                                                               
 -Bandwith inspired me                                                               
 -SHADOW a nice psxdev.net member who helped me a lot                                                               
--And a thanks goes to everyone on PSXDEV.NET                                                               
+-And a thanks goes to everyone on PSXDEV.NET                           
+
+                                                       
+A Big Thanks to insolitum for STARRING THE REPOSITORY       
+
+You inspired me
