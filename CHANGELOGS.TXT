@@ -116,3 +116,23 @@ Enginev8.zip
 -A thanks to the man who starred this repository
 -Watch RUBIXCUBE6 3D on ps1 video and download the file from his description and setup blender as well
 -Now you can use 3d :)
+
+
+
+
+
+
+
+
+Enginev9.zip
+#############
+-newly created math.h library
+-updated math.h
+-new header file MACRO.H include some macros to make you low mistakes
+-added enableFog() function
+-renamed 2D ALL.H to 2D.H and 3D ALL.H to 3D.H
+-added some docs
+-better GS Lightining
+-better memory speed
+-remove unneccesary codes from AUDIO.H
+-improved PAD latency
