@@ -11,18 +11,20 @@ Thanks to Orion  LameGuy64  Wituz Shadow Bandwith for making this possible
 Use this with PSY-Q SDK
 
 useful links for playstation developers ->
-
+                                                    
 1.http://psxdev.net                                                
 2.https://ps1.consoledev.net/           
 3.https://psx.arthus.net/           
-4.Wituz's youtube channel           
-5.Bandwith's youtube channel           
+4.https://www.youtube.com/@Wituz 
+5.https://www.youtube.com/@Bandwidth_ytb         
+6.My youtube channel -> https://www.youtube.com/channel/UCB8TmthWR4uiel7eUnLT5bw                                                    
+
 
 ps1 developer tools -> https://archive.org/details/SonyPlaystation1PSXDeveloperTools                  
 
 *MUST READ* If it doesnt compile modify psyq.ini located C:\psyq\bin and add libds.lib and libpress.lib on the line says stdlib=
 
-                                                                  
+                                                                                                                                                                  
                                                                   
 CREDITS
 ########
