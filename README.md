@@ -1,5 +1,6 @@
-# Ps1-Game-Engine
+# Ps1 Game Engine
 # Must Read INSTRUCTION.TXT
+# Note Engine for Enginev10 and later versions see releases 
  Open source game engine designed for original playstation
 
 *IMPORTANT* If code doesnt compile Download SetupTool and Data folder located SeetupTool/ and Run it
