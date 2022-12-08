@@ -1,0 +1,20 @@
+How to setup
+#############
+
+Step 1.Download SetupTool
+
+Step 2.Run SetupTool
+
+Step 3.Download Engine Latest Version.zip
+
+Step 4.Extract Engine.zip
+
+Step 5.Copy Engine Floder to Your Project
+
+Step 6.Use -> #include "Engine/include/(3D or 2D what you prefer).h"
+
+Step 7.Done
+
+Note :Use this with PSYQ SDK
+
+Any queries email -> sysmail.org@gmail.com
