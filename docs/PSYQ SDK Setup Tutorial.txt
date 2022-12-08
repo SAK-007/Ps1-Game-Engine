@@ -1,0 +1,45 @@
+                                            PSYQ - SDK Setup Tutorial
+===================================================================================================================
+
+Start:
+######
+
+1.Check your windows version 32bit or 64bit
+
+2.If 32 bit goto Installations
+
+3.If 64bit then install CompiledNTVDM by enderman [Run as administrator]
+
+4.Then goto installation
+
+
+Installation:
+#############
+
+1.Extract psyq folder on directory C:\
+
+2.Add Environment.reg to registry
+
+3.If Environment.reg doesnt work create a TEMP Folder on C:\ then restart
+
+4.If doesnt work Run C:\psyq\PSPATHS.bat [Run as an administritor]
+
+5.Then Create a projects folder on C:\psyq\
+
+6.Then copy "MAIN.C" & "Makefile.mak" from here to C:\psyq\projects
+
+7.Then copy "Compile.bat" to C:\psyq\projects
+
+8.Run 'Compile.bat'
+
+9.If setup succesful you will see 4 files main.cpe , main.exe, mem.map & [I can't Remember]
+
+
+Errors:
+#######
+
+1.Uninstall and Reinstall NTVDMX64
+
+2.Run pspaths.bat again
+
+3.Freshly install psyq
