@@ -1,5 +1,6 @@
 # Ps1-Game-Engine
-# Open source game engine designed for original playstation
+# Must Readt INSTRUCTION.TXT
+ Open source game engine designed for original playstation
 
 *IMPORTANT* If code doesnt compile Download SetupTool and Data folder located SeetupTool/ and Run it
 
@@ -34,6 +35,5 @@ CREDITS
 -And a thanks goes to everyone on PSXDEV.NET                           
 
                                                        
-A Big Thanks to insolitum for STARRING THE REPOSITORY       
+A Big Thanks to insolitum for STARRING THE REPOSITORY     
 
-You inspired me
