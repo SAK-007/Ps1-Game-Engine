@@ -6,7 +6,8 @@
 *IMPORTANT* If code doesnt compile Download SetupTool and Data folder located SeetupTool/ and Run it
 
 Note :This is not a game engine this is a playstation game development library and its name is Engine
-
+                                                                              
+Note :This engine is not complete
 Thanks to Orion  LameGuy64  Wituz Shadow Bandwith for making this possible
 
 Use this with PSY-Q SDK
